@@ -1,6 +1,11 @@
 Spazer Launcher Patch notes
 ------------
 
+0.2.4
+- Nog meer gekke animaties bij afsluitknop
+- Extra tekst bij download toegevoegd
+- Tijdelijk witte achtergrond bij patchnotes
+
 0.2.3
 - Nog een gekke animatie toegevoegd
 - FPS icoon transparant gemaakt
