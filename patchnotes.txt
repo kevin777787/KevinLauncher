@@ -1,6 +1,13 @@
 Spazer Launcher Patch notes
 ------------
 
+0.2.3
+- Nog een gekke animatie toegevoegd
+- FPS icoon transparant gemaakt
+- Zwarte overlay tijdens download toegevoegd
+- Klik op 'Spazer Launcher' linksboven om terug naar de patchnotes te gaan
+- Loadingbar staat nu op 100% als hij klaar is om te spelen
+
 0.2.2:
 - Deze patchnotes
 - Gekke animatie toegevoegd
