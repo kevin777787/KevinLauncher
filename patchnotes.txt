@@ -1,0 +1,8 @@
+Spazer Launcher Patch notes
+------------
+
+0.2.2:
+- Deze patchnotes
+- Gekke animatie toegevoegd
+- Start nu niet meer op in fullscreen
+- FPS icoon toegevoegd
