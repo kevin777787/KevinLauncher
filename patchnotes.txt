@@ -1,6 +1,10 @@
 Spazer Launcher Patch notes
 ------------
 
+0.2.5
+- Gamescherm aangepast
+- Afsluit animatie iets sneller
+
 0.2.4
 - Nog meer gekke animaties bij afsluitknop
 - Extra tekst bij download toegevoegd
